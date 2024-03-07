@@ -1,0 +1,21 @@
+node_modules
+.nx/
+.DS_Store
+.env
+lib/
+dist/
+*.log
+*.tsbuildinfo
+.eslintcache
+cache-files/
+cache-expressions/
+cache-dll-calls/
+dll-export/
+.antlr
+.tmp/
+.pnpm-store
+.gitlab-ci-local/
+.gitlab-ci-local-variables.yml
+
+# User settings
+.vscode/settings.json
